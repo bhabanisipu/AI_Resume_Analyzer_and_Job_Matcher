@@ -1,0 +1,45 @@
+# Job Description: AI/ML Engineer – Fresher
+
+**Job Title:** AI/ML Engineer  
+**Experience:** 0–1 Years  
+**Employment Type:** Full-Time
+
+## Job Overview
+We are looking for a motivated AI/ML Engineer to join our team. The candidate will work on developing machine learning models, building AI applications, processing data, and integrating AI solutions into real-world products.
+
+## Responsibilities
+- Develop and implement machine learning and deep learning models.
+- Collect, clean, preprocess, and analyze datasets.
+- Build NLP applications such as text classification, sentiment analysis, and resume screening.
+- Develop Generative AI applications using large language models (LLMs).
+- Use LangChain to build AI-powered applications.
+- Integrate hosted AI models through APIs.
+- Build REST APIs using Flask or FastAPI.
+- Evaluate model performance and improve prediction quality.
+- Collaborate with software engineers and data scientists.
+- Maintain code using Git and GitHub.
+
+## Required Skills
+- Strong understanding of Python programming.
+- Knowledge of NumPy, Pandas, and Scikit-learn.
+- Understanding of machine learning algorithms and model evaluation.
+- Basic knowledge of deep learning and NLP.
+- Familiarity with Generative AI, LLMs, and prompt engineering.
+- Experience with LangChain or Hugging Face is preferred.
+- Knowledge of SQL and REST APIs.
+- Understanding of Git and GitHub.
+- Good problem-solving and communication skills.
+
+## Preferred Qualifications
+- Bachelor's degree in Computer Science, Information Technology, AI/ML, or a related field.
+- Academic projects or internship experience in AI/ML.
+- Familiarity with Streamlit, Flask, or FastAPI.
+- Basic understanding of cloud deployment.
+
+## What We Offer
+- Opportunity to work on real-world AI projects.
+- Mentorship from experienced engineers.
+- Hands-on experience with machine learning and Generative AI.
+- Learning and career growth opportunities.
+
+**Ideal Candidate:** A fresher who enjoys solving problems, learning new AI technologies, and building practical AI applications.

@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+langchain
+langchain-huggingface
+huggingface_hub
+python-dotenv
+scikit-learn
+numpy
+langsmith
+langchain_community
+langchain-groq

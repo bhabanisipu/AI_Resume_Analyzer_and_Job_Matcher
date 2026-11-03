@@ -1,0 +1,6 @@
+Business Problem – AI Resume Analyzer and Job Matcher
+Many companies receive hundreds or thousands of resumes for a single job opening. Manually reviewing every resume takes significant time and effort for HR recruiters.
+
+At the same time, job seekers often struggle to understand whether their resumes match a particular job description, which required skills they are missing, and how they can improve their resumes.
+
+The business problem is that there is no simple and efficient way to compare resumes with job requirements, identify skill gaps, and provide personalized improvement suggestions.
